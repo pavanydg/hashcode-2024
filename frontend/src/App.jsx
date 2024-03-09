@@ -6,6 +6,7 @@ import NavBar from './components/NavBar'
 import Dashboard from './pages/Dashboard'
 import { Signup } from './pages/Signup'
 import { Signin } from './pages/Signin'
+import Signupsupa from './pages/Signupsupa'
 
 function App() {
   return (
